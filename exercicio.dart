@@ -57,7 +57,7 @@ class Pedido {
 
 
 void main() {
-  // Exemplo de lista de maps a ser convertida em objetos do tipo Pedido
+
   final List<Map<String, dynamic>> listaPedidos = [
   {
     "id_pedido": "REQ-9872",
